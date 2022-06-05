@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3.1" package="org.example.complexwatch" version="1.0.0">
+    <author>lazyyfox</author>
+    <profile name="wearable"/>
+    <watch-application ambient-support="true" appid="org.example.complexwatch" exec="complexwatch">
+        <label>complexwatch</label>
+        <icon>complex watch logo.png</icon>
+    </watch-application>
+</manifest>
